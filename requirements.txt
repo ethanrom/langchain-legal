@@ -1,0 +1,12 @@
+langchain
+nltk
+openai
+scikit_learn
+spacy==3.5.0
+streamlit_option_menu
+streamlit_chat
+faiss-cpu
+tiktoken
+PyPDF2
+streamlit
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
